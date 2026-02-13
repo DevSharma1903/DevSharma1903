@@ -1,10 +1,10 @@
 # Hi there, I'm Dev Sharma 👋
 
-## 🎓 About Me
-- 🎓 BTech in Computer Science & Financial Technology @ MIT
-- 🤖 Passionate about AI, Robotics, and Computer Vision
-- 🌱 Learning advanced control systems, embedded AI, and real-time video processing
-- 💡 Interested in making AI accessible
+##  About Me
+-  BTech in Computer Science & Financial Technology @ MIT
+-  Passionate about AI, Robotics, and Computer Vision
+-  Learning advanced control systems, embedded AI, and real-time video processing
+-  Interested in making AI accessible
 
 ## 🔧 Technologies & Tools
 
@@ -39,7 +39,7 @@
 ![Kaggle](https://img.shields.io/badge/-Kaggle-20BEFF?style=flat&logo=kaggle&logoColor=white)
 
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 [![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=DevSharma1903&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
@@ -47,12 +47,12 @@
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=DevSharma1903&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
 
-## 🌟 Interests
-- 🤖 Robotics & Automation
-- 🧠 Deep Learning & Neural Networks
-- 📷 Computer Vision & Object Detection
-- 🔌 Web Development
-- 💰 Financial Technology
+##  Interests
+-  Robotics & Automation
+-  Deep Learning & Neural Networks
+-  Computer Vision & Object Detection
+-  Web Development
+-  Financial Technology
 
-## 📫 How to Reach Me
-- 📧 Email: devsharma.techinnovate@gmail.com
+## How to Reach Me
+-  Email: devsharma.techinnovate@gmail.com
