@@ -44,9 +44,4 @@ Computer Science student focused on systems, embedded engineering, and AI at the
 
 Systems · Control · Edge AI · Clean Architecture
 
----
 
-## Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=DevSharma1903&show_icons=true&theme=tokyonight)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DevSharma1903&layout=compact&theme=tokyonight)
